@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-cajf",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CajfDevop/random-str-msg-cajf.git"
+  },
+  "keywords": [],
+  "author": "Carlos Jaramillo <cajfdeveloper@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CajfDevop/random-str-msg-cajf/issues"
+  },
+  "homepage": "https://github.com/CajfDevop/random-str-msg-cajf#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
